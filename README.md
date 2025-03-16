@@ -19,3 +19,6 @@ Predicts earthquake intensity based on historical data
 Provides personalized safety recommendations
 Differentiates between rural and urban areas for better risk assessment
 Future integration with insurance companies and building data for enhanced accuracy
+
+Link to the dataset used:
+https://www.kaggle.com/datasets/alessandrolobello/the-ultimate-earthquake-dataset-from-1990-2023?resource=download
